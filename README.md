@@ -22,7 +22,6 @@ https://www.nuget.org/packages/Win2D.uwp
 
 # iced usage examples
 
-using Iced.Intel
 https://github.com/vezel-dev/ruptura/blob/e0b49102b7f262db4ab2aff8c9b8ed7283bf5d05/src/memory/Code/FunctionHook.cs
 https://github.com/mbbsemu/MBBSEmu/blob/22685cc84dadc98a6b15d2449901bfac8892a66b/MBBSEmu/CPU/CpuRegisters.cs
 https://github.com/mbbsemu/MBBSEmu/blob/22685cc84dadc98a6b15d2449901bfac8892a66b/MBBSEmu/Disassembler/ModuleDisassembly.cs
